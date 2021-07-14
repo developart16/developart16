@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Artur Vardanyan <img src="https://komarev.com/ghpvc/?username=developart16&label=Profile%20views&color=0e75b6&style=flat" alt="developart16" /></h1>
+<h1 align="center">Hi 👋, I'm Artur Vardanyan</h1>
+<img src="https://komarev.com/ghpvc/?username=developart16&label=Profile%20views&color=0e75b6&style=flat" alt="developart16" />
 
 <h3 align="center">Full Stack developer from Spain</h3>
 
